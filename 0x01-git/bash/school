@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+>>>>>>> 6a0f14bcb0f2d6ff3abfba7544e6699b82a08f7c
 echo "The school is open!"
